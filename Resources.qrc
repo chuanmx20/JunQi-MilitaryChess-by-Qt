@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>chessboard.jpg</file>
+        <file>Board.jpg</file>
+        <file>BombBlue.png</file>
+        <file>BombRed.png</file>
+        <file>BossBlue.png</file>
+        <file>BossRed.png</file>
+        <file>Empty.png</file>
+        <file>FlagBlue.png</file>
+        <file>FlagRed.png</file>
+        <file>GongBlue.png</file>
+        <file>GongRed.png</file>
+        <file>JunBlue.png</file>
+        <file>JunRed.png</file>
+        <file>LandMineBlue.png</file>
+        <file>LandMineRed.png</file>
+        <file>LianBlue.png</file>
+        <file>LianRed.png</file>
+        <file>LvBlue.png</file>
+        <file>LvRed.png</file>
+        <file>PaiBlue.png</file>
+        <file>PaiRed.png</file>
+        <file>ShiBlue.png</file>
+        <file>ShiRed.png</file>
+        <file>TuanBlue.png</file>
+        <file>TuanRed.png</file>
+        <file>Unflipped.png</file>
+        <file>YingBlue.png</file>
+        <file>YingRed.png</file>
+        <file>EmptyCircle.png</file>
+        <file>empty.jpg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
